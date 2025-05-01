@@ -6,9 +6,9 @@ const func = () => {
     console.log(sum(x, y)); // 30
     debugger;
     x = 20;
-    y = 30;
+    y = '30;
     
-    console.log(sum(x, y)); // 50
-    };
+     console.log(sum(x, y)); // 50
+  };
     
-    func();
+func()
